@@ -16,9 +16,9 @@ const Home = () => {
 			<div className="header_height sec_bg d-flex align-items-center">
 				<div className="container">
 					<div className="col-12 col-md-9 col-lg-6 py-5">
-						<h1 className="hdrcolor">We create efficient digital solutions engineered for growth</h1>
-						<p className="text-white lead">Lorem Ipsum is simply dummy text of the printing industry.</p>
-						<button className="btn btn-lg col-lg-4 col-6 btn_custom btn_shadow">LET'S TALK</button>
+						<h1 className="hdrcolor">Innovative Education, Caring Environment, Brighter Futures</h1>
+						<p className="text-white lead">Caring for Your Child, Committed to Their Growth.</p>
+						<button className="btn btn-lg col-lg-4 col-6 btn_custom btn_shadow">Get Start</button>
 					</div>
 				</div>
 			</div>
